@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Visit Madrid</string>
+    <string name="item1">To see</string>
+    <string name="item2">To eat</string>
+    <string name="item3">To do</string>
+    <string name="item4">Contact</string>
+    <!--ToSee Fragment-->
+    <string name="Retiro1">El Retiro</string>
+    <string name="Retiro2">Madrid most known green park in the city center</string>
+    <string name="GranVia1">Gran Vía</string>
+    <string name="GranVia2">Most known street full of restaurants and theatres</string>
+    <string name="Catedral1">Catedral Almudena</string>
+    <string name="Catedral2">Right in front of Royal Palace</string>
+    <string name="Cibeles1">Cibeles</string>
+    <string name="Cibeles2">One of the most representative spots in the city</string>
+    <string name="Sol1">Puerta del Sol</string>
+    <string name="Sol2">Madrid city center</string>
+    <!--ToEat Fragment-->
+    <string name="SMiguel1">Mercado de San Miguel</string>
+    <string name="SMiguel2">Typical and cheap market in the city center</string>
+    <string name="SIlde1">Mercado de San Ildefonso</string>
+    <string name="SIlde2">Great place in the middle of the most funny street</string>
+    <string name="Thai1">Yatai Market</string>
+    <string name="Thai2">New market of asian food</string>
+    <string name="MJamon1">Museo del Jamón</string>
+    <string name="MJamon2">One of the most famous spots in the city</string>
+    <string name="Diverxo1">Diverxo</string>
+    <string name="Diverxo2">Most famous 3 Michelin stars in Madrid</string>
+    <!--ToDo Fragment-->
+    <string name="PRetiro1">Row in Parque del Retiro</string>
+    <string name="PRetiro2">Rent a boat and row in this estuary</string>
+    <string name="Brunch1">Brunch</string>
+    <string name="Brunch2">Taste these dishes in Chueca</string>
+    <string name="Opera1">Selection of theatres</string>
+    <string name="Opera2">Pick a play in one of the several theatres</string>
+    <string name="Latina1">La Latina</string>
+    <string name="Latina2">Best place to take a coffee or a drink at night</string>
+    <string name="Toledo1">Visit Toledo</string>
+    <string name="Toledo2">Spanish old metropolis just 30min away from Madrid</string>
+    <!--Contact Fragment-->
+    <string name="Flight1">Madrid Barajas Airport</string>
+    <string name="Flight2">International airport connected to every big city</string>
+    <string name="Train1">Chamartin/ Atocha Train Station</string>
+    <string name="Train2">Two main train stations connected to every city in Spain and abroad</string>
+    <string name="Bus1">Bus Station</string>
+    <string name="Bus2">Great frequency of buses to any town in Spain</string>
+</resources>
