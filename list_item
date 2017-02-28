@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:background="@color/tan_background"
+    android:layout_height="@dimen/list_item_height">
+    <ImageView
+        android:layout_width="@dimen/list_item_height"
+        android:layout_height="@dimen/list_item_height"
+        android:background="#FFF7DA"
+        android:id="@+id/madrid_image"
+        android:src="@mipmap/ic_launcher"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/list_item_height"
+        android:orientation="vertical"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_toRightOf="@id/madrid_image"
+        android:id="@+id/list_color_container"
+        android:paddingLeft="16dp">
+        <TextView
+            android:id="@+id/title_text_view"
+            style="@style/Translation"
+            android:gravity="bottom"
+            android:textStyle="bold"
+            tools:text="Title"/>
+        <TextView
+            style="@style/Translation"
+            android:id="@+id/subtitle_text_view"
+            android:textSize="15sp"
+            android:gravity="top"
+            tools:text="SubTitle"/>
+    </LinearLayout>
+</RelativeLayout>
